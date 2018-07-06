@@ -48,14 +48,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="RadioButton" />
+            android:text="Female" />
 
         <RadioButton
-            android:id="@+id/radioButtonGender"
+            android:id="@+id/radioButtonGenderFemale"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="RadioButton" />
+            android:text="Male" />
     </RadioGroup>
 
 </LinearLayout>
